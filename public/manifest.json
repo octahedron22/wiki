@@ -1,0 +1,16 @@
+{
+  "short_name": "Farm WIKI",
+  "name": "Farm WIKI",
+  "description": "Farm WIKI with LP Tokens",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#f7f5eb"
+}
